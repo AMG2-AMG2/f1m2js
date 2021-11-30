@@ -1,4 +1,5 @@
-# Fase 1 module 2 museum Online
-## javascript
+# F1M2JS - Museum Online
 
-(live view)[http://33289.hosts1.ma-cloud.nl/f1m2js/]
+## Halil Dogan 
+
+[Live versie van de opdrachten](33289.hosts1.ma-cloud.nl)
