@@ -10,23 +10,26 @@
 <body>
     <h1>Boodschappen sorteren </h1>
 
+    <h2>Hoi</h2>
+
 
 
     <div id="Boodschappen">
-        <Button>Appel</Button>
-        <Button>Sla</Button>
-        <Button>Ui</Button>
-        <Button>Peer</Button>
-        <Button>Kiwi</Button>
-        <Button>Sinas</Button>
-        <Button>Meloen</Button>
-        <Button>Aardappel</Button>
+        <Button onclick="zetInFruitLa('Appel')">Appel</Button>
+        <Button onclick="zetInGroenteLa('Sla')">Sla</Button>
+        <Button onclick="zetInGroenteLa('Ui')">Ui</Button>
+        <Button onclick="zetInFruitLa('Peer')">Peer</Button>
+        <Button onclick="zetInFruitLa('Kiwi')">Kiwi</Button>
+        <Button onclick="zetInFruitLa('Sinas')">Sinas</Button>
+        <Button onclick="zetInFruitLa('Meloen')">Meloen</Button>
+        <Button onclick="zetInGroenteLa('Aardappel')">Aardappel</Button>
     </div>
+
     <div id="koelkast">
-        <section is="groente">
+        <section id="groente">
             <h2>Groente</h2>
         </section>
-        <section is="fruit">
+        <section id="fruit">
             <h2>Fruit</h2>
         </section>  
     </div>

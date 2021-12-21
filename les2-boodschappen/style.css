@@ -21,6 +21,14 @@
         margin: 0 0 10px 0; /* top right bottom left */
     }
 
+    .rood{
+        color: red;
+    }
+
+    .Groen{
+        color: greenyellow;
+    }
+
     button{
         padding: 10px 20px;
         background-color: lightblue;
