@@ -9,3 +9,6 @@
 [Opdracht 3 - Tentoonstelling ](http://33289.hosts1.ma-cloud.nl/f1m2js/Les3-Tentoonstelling)
 
 [Opdracht 4 - Seizoenen ](http://33289.hosts1.ma-cloud.nl/f1m2js/Les4-Seizoen)
+
+[Opdracht 5 - Silver Bullet Adventure ](http://33289.hosts1.ma-cloud.nl/f1m2js/Les5-Silver Bullet Adventure)
+
