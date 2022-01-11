@@ -7,7 +7,7 @@ let paintings = [
     "img/painting2.jpg",
     "img/painting3.jpg",
     "img/painting4.jpg",
-    "img/painting5.jpg"
+    "img/painting5.jpg",
 ]
 
 let titles = [
